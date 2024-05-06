@@ -30,8 +30,10 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.2.20:8094
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1666347392-.png" group-title="Local Channel",[015] BTV
 rtp://@239.1.1.183:9072
-
-
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696237843-.png" group-title="Local Channel",[016] MAX SREAM
+rtp://@239.1.1.101:8580
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808519-.png" group-title="Local Channel",[017] INDOSIAR
+rtp://@239.1.1.17:8076
 
 
 
