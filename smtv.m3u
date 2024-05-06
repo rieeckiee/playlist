@@ -16,7 +16,7 @@ rtp://@239.1.1.37:8196
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="Local Channel",[008] JTV
 rtp://@239.1.1.6:8010
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/insert_1670394623.png" group-title="Local Channel",[009] INSERT
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673087-.png" group-title="Local Channel",[009] INSERT
 rtp://@239.1.1.113:8652
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672863-.png" group-title="Local Channel",[010] DUNIA LAIN
 rtp://@239.1.1.149:8868
