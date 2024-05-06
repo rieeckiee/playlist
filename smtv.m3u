@@ -8,3 +8,7 @@ rtp://@239.1.2.58:8324
 rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png",[003] NET TV
 rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",[004] TRANS TV
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",[005] TRANS TV
+rtp://@239.1.1.222:9306
