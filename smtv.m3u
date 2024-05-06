@@ -12,3 +12,25 @@ rtp://@239.1.1.158:8922
 rtp://@239.1.1.194:9138
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",[005] TRANS TV
 rtp://@239.1.1.222:9306
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13",[006] TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png",[007] METRO TV
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iEKi0lMRLCuZ5rX6lBh8CkqNFmM=/64x64/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png",[008] JTV
+rtp://@239.1.1.6:8010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
