@@ -6,3 +6,5 @@ rtp://@239.1.2.58:8324
 #LOCAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/300px-CNN_Indonesia_logo.svg.png",[002] CNN INDONESIA
 rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png",[003] NET TV
+rtp://@239.1.1.158:8922
