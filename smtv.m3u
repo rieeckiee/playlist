@@ -34,10 +34,19 @@ rtp://@239.1.1.183:9072
 rtp://@239.1.1.101:8580
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808519-.png" group-title="Local Channel",[017] INDOSIAR
 rtp://@239.1.1.17:8076
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="Local Channel",[018] FLIX
+rtp://@239.1.1.239:9276
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2023/11/cropped-cropped-Logo-Channel-Jowo.png" group-title="Local Channel",[019] JOWO
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/antara.png" group-title="Local Channel",[020] ANTARA TV
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586675999-.png" group-title="Local Channel",[021] DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png" group-title="Local Channel",[022] TV ONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1695617054-.png" group-title="Local Channel",[023] ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933489-.png" group-title="Local Channel",[024] ALL PLAY ENT
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586681326-.png" group-title="Local Channel",[025] U CHANNEL
+rtp://@239.1.1.220:9522
