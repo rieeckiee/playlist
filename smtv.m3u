@@ -37,7 +37,7 @@ rtp://@239.1.1.17:8076
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="Local Channel",[018] FLIX
 rtp://@239.1.1.239:9276
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2023/11/cropped-cropped-Logo-Channel-Jowo.png" group-title="Local Channel",[019] JOWO
-rtp://@239.1.2.17:8076
+rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/antara.png" group-title="Local Channel",[020] ANTARA TV
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586675999-.png" group-title="Local Channel",[021] DAAI TV
